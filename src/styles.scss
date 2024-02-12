@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "../node_modules/scss-reset/src/scss/_reset.scss";
+
+html {
+  background-color: #100f16;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: "JetBrains Mono", monospace;
+}
